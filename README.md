@@ -1,6 +1,6 @@
 # Caesar_Cipher_Python
 
-# Secret Code Generator - Python Assignment
+# Secret Code Generator - Python 
 
 This is a Python program that acts as a **Secret Code Generator** using a basic Caesar cipher technique. The program allows you to encode and decode messages by shifting the letters in the alphabet by a specified amount.
 
